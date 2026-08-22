@@ -90,8 +90,8 @@ ELIGIBLE FOR CLASS BOOKING
 
 ## Link to Python code in Google Colab
 
-Display information the Welcome kiosk: 
+Front-Desk Welcome Kiosk: 
 https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/Fitlife_M1_Liew_Wai_SanGH.ipynb 
 
-Build the data layer:
+Data Structures Layer:
 https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/Fitlife_M2_LiewWaiSanGH.ipynb
