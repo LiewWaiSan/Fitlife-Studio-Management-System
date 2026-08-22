@@ -88,13 +88,6 @@ ELIGIBLE FOR CLASS BOOKING
 
 ---
 
-## How to Run
+## Link to Python code in Google Colab
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/fitlife-studio-management.git](https://github.com/your-username/fitlife-studio-management.git)
-   ```
-2. Navigate into the directory and execute the main runner:
-   ```bash
-   python main.py
-   ```
+Display information the Welcome kiosk: https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/Fitlife_M1_Liew_Wai_SanGH.ipynb
