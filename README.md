@@ -97,5 +97,7 @@ Data Structures Layer:
 https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/Fitlife_M2_LiewWaiSanGH.ipynb
 
 Control Flow & Business Logic:
+https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/Fitlife_M3_LiewWaiSan.ipynb
 
-Modular Library & File Logging:
+Modular Library for code reusability and easier debugging & File Logging:
+https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/FitLife_M4_LiewWaiSan.ipynb
