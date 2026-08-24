@@ -1,4 +1,4 @@
-# Fitlife-Studio-Management-System
+# Fitlife Studio Management System
 
 An end-to-end Python management system for **FitLife Studio**, designed to handle member enrollment, eligibility evaluation, automated membership renewals, revenue aggregation, and file logging.
 
